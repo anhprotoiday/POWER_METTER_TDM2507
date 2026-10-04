@@ -1,8 +1,8 @@
 @echo off
-title Tool Nap Code ESP32-C3 (Khong can ESP-IDF)
+title Tool Nap Code test TDM2507 dung ESP32-C3
 
 :: ==========================================
-:: CHỈNH SỬA CỔNG COM Ở ĐÂY (Trên máy tính mới)
+:: CHỈNH SỬA CỔNG COM Ở ĐÂY
 :: ==========================================
 set COM_PORT=COM22
 set BAUD_RATE=921600
